@@ -40,3 +40,6 @@ deploy-job:      # This job runs in the deploy stage.
   script:
     - source venv/bin/activate
     - streamlit run lens.py
+    - sleep 25
+    # - sleep(time: 25, unit: 'SECONDS')
+    - sh 'pkill -f "python3 -m streamlit run goat.py"'
