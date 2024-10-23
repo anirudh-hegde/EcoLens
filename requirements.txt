@@ -1,0 +1,5 @@
+streamlit~=1.39.0
+streamlit-option-menu
+pillow~=10.4.0
+google.generativeai
+protobuf~=5.28.2
