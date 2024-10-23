@@ -24,7 +24,7 @@ build-job:       # This job runs in the build stage, which runs first.
   stage: build
   script:
     - apt-get update
-    - apt-get install python3-pip
+    - apt-get install python3 -y
     - apt install python3.11-venv -y
     - python3 -m venv venv
     - pip install -r requirements.txt
