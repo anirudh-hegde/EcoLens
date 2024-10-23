@@ -40,6 +40,7 @@ def main():
 			picture whether it can be recyclable or garbage.
 			"""
 		)
+		
 		st.write(
 			"""
 				**1. AI-Powered Image Recognition for Waste Classification**:
