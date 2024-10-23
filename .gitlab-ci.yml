@@ -40,6 +40,6 @@ deploy-job:      # This job runs in the deploy stage.
   script:
     - source venv/bin/activate
     - streamlit run lens.py
+    - echo $! > streamlit.pid
     - sleep 25
-    # - sleep(time: 25, unit: 'SECONDS')
-    - sh 'pkill -f "streamlit run lens.py"'
+    - kill $(cat streamlit.pid)
