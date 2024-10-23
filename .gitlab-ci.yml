@@ -39,7 +39,8 @@ deploy-job:      # This job runs in the deploy stage.
   environment: production
   script:
     - source venv/bin/activate
-    - streamlit run lens.py
-    - echo $! > streamlit.pid
-    - sleep 25
-    - kill $(cat streamlit.pid)
+    - timeout 25s streamlit run lens.py
+    # - streamlit run lens.py
+    # - echo $! > streamlit.pid
+    # - sleep 25
+    # - kill $(cat streamlit.pid)
