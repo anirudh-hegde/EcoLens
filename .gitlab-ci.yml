@@ -39,7 +39,7 @@ deploy-job:      # This job runs in the deploy stage.
   environment: production
   script:
     - source venv/bin/activate
-    - timeout 25s streamlit run lens.py
+    - timeout --preserve-status 25s streamlit run lens.py || true
     # - streamlit run lens.py
     # - echo $! > streamlit.pid
     # - sleep 25
