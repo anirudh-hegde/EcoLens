@@ -1,5 +1,6 @@
 # Ecolens
 
+<img src="https://github.com/user-attachments/assets/17472c27-6801-4f9e-9385-1f26fbf6d8eb" style="width:700px;height:400px;">
 
 ## Intro
 The EcoLens web application is designed to harness the power of Generative AI to revolutionize waste management. 
