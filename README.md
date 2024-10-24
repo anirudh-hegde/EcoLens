@@ -1,5 +1,14 @@
 <img src="https://github.com/user-attachments/assets/17472c27-6801-4f9e-9385-1f26fbf6d8eb" style="width:700px;height:400px;">
 
+[![language](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
+[![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)](https://www.jetbrains.com/pycharm/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
+[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=1ds21ai010@dsce.edu.in">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
 ## Intro
 The EcoLens web application is designed to harness the power of Generative AI to revolutionize waste management. 
 The app integrates AI image recognition to identify whether waste is recyclable or non-recyclable, providing real-time 
