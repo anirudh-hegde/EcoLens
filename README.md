@@ -59,6 +59,31 @@ value and practical tips.
 * Educating on Environmental Impact: The detailed AI analysis educates users about the environmental harm caused by certain waste materials,
   raising awareness and fostering more responsible behavior.
 
+## Usage
+1. Clone the repository
+```
+git clone https://github.com/anirudh-hegde/EcoLens.git
+```
+
+2. Change directory to EcoLens
+```
+cd EcoLens
+```
+
+3. Create virtual environment and activate it
+```
+python3 -m venv venv && source venv/bin/activate
+```
+
+4. Install the requirements
+```
+pip install -r requirements.txt
+```
+
+5. Run the app
+```
+python3 -m streamlit run lens.py
+```
 
 ## Conclusion:
 EcoLens presents a comprehensive solution to modern waste management challenges. By leveraging AI-powered image recognition, the app encourages 
