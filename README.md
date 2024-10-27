@@ -86,6 +86,5 @@ python3 -m streamlit run lens.py
 ```
 
 ## Conclusion:
-EcoLens presents a comprehensive solution to modern waste management challenges. By leveraging AI-powered image recognition, the app encourages 
-users to participate in smarter recycling, improve waste management practices, and promote sustainability. EcoLens is a step forward in achieving 
-circular economy goals, offering practical and immediate insights to individuals and communities to better manage waste and reduce environmental harm.
+Congratulations! You have successfully run the application 🚀️.
+To view the LearnMate.ai app 👉 https://learnmate-ai.streamlit.app/
