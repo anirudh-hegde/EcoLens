@@ -87,4 +87,4 @@ python3 -m streamlit run lens.py
 
 ## Conclusion:
 Congratulations! You have successfully run the application 🚀️.
-To view the LearnMate.ai app 👉 https://learnmate-ai.streamlit.app/
+To view the LearnMate.ai app 👉 https://ecolens-olm.streamlit.app/
