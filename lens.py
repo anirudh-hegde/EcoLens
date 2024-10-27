@@ -15,7 +15,13 @@ with st.sidebar:
 									"(Get your Google Gemini API key from "
 									"[here](https://makersuite.google.com/app/apikey)) : ",
 									type="password")
-
+	
+	st.write("---")
+	st.subheader("Follow me on: ")
+	st.write("𝕏 -> [@Anirudh91017141](https://x.com/Anirudh91017141)")
+	st.write("LinkedIn -> [anirudhhegde](https://www.linkedin.com/in/anirudhhegde/)")
+	st.write("GitHub -> [anirudh-hegde](https://www.github.com/anirudh-hegde)")
+	
 
 def main():
 	if pages == "Intro":
